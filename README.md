@@ -5,7 +5,7 @@ I’m passionate about **React** and enjoy building user-friendly, intuitive web
 
 ---
 
-### 🧰 My Tech Stack
+# 🧰 My Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
